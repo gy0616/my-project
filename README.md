@@ -1,7 +1,7 @@
 # DUHA-Net: Dual-branch Uncertainty-aware Haar-enhanced Aggregation Network
 ###  🔒 Review Status
 
-This work is currently under review at **The Visual Computer**. 
+This work is currently under review at **Pattern Analysis and Applications**. 
 The code is made available to facilitate the review process.
 
 ### 📖 Introduction
